@@ -22,7 +22,7 @@ pod "pruebaFr"
 
 ## Author
 
-AlejandroDeveloper, alejandro.palomo@external.grifols.com
+AlejandroDeveloper, alejandro.palomo@amaris.com
 
 ## License
 
