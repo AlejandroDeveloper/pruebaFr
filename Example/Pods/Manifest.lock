@@ -1,0 +1,14 @@
+PODS:
+  - pruebaFr (0.1.0)
+
+DEPENDENCIES:
+  - pruebaFr (from `../`)
+
+EXTERNAL SOURCES:
+  pruebaFr:
+    :path: ../
+
+SPEC CHECKSUMS:
+  pruebaFr: 38f6f29fd01b3af75f99ff2a366b3aa15e306eff
+
+COCOAPODS: 0.39.0
