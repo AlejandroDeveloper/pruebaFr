@@ -1,15 +1,15 @@
 {
   "name": "pruebaFr",
   "version": "0.1.0",
-  "summary": "A short description of pruebaFr.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/pruebaFr",
+  "summary": "Esta es una descipcion corta",
+  "description": "Esto es mas bien la descripicion larga del proyecto",
+  "homepage": "https://github.com/AlejandroDeveloper/pruebaFr",
   "license": "MIT",
   "authors": {
-    "AlejandroDeveloper": "alejandro.palomo@external.grifols.com"
+    "AlejandroDeveloper": "alejandro.palomo@amaris.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/pruebaFr.git",
+    "git": "https://github.com/AlejandroDeveloper/pruebaFr.git",
     "tag": "0.1.0"
   },
   "platforms": {
